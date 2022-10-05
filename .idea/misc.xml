@@ -6,10 +6,12 @@
         <entry key="..\:/Projeto-Llas/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.196" />
         <entry key="..\:/Projeto-Llas/app/src/main/res/drawable/ic_launcher_background.xml" value="0.196" />
         <entry key="..\:/Projeto-Llas/app/src/main/res/layout/activity_main.xml" value="0.28940217391304346" />
-        <entry key="..\:/Projeto-Llas/app/src/main/res/layout/cadastrar_usuarios.xml" value="0.25" />
+        <entry key="..\:/Projeto-Llas/app/src/main/res/layout/cadastrar_usuarios.xml" value="0.5" />
         <entry key="..\:/Projeto-Llas/app/src/main/res/layout/cadastro_usuarios.xml" value="0.22" />
+        <entry key="..\:/Projeto-Llas/app/src/main/res/layout/tela_clientes.xml" value="0.8243559718969555" />
         <entry key="..\:/Projeto-Llas/app/src/main/res/layout/tela_inicial.xml" value="0.25" />
-        <entry key="..\:/Projeto-Llas/app/src/main/res/layout/tela_inicialm.xml" value="0.5" />
+        <entry key="..\:/Projeto-Llas/app/src/main/res/layout/tela_inicialc.xml" value="0.3" />
+        <entry key="..\:/Projeto-Llas/app/src/main/res/layout/tela_inicialm.xml" value="0.33" />
         <entry key="..\:/Projeto-Llas/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.196" />
       </map>
     </option>
